@@ -50,4 +50,4 @@ form.addEventListener("submit", (e) => {
         getMovies(SEARCHAPI+searchTerm);
         search.value = "";
     }
-});.
+});
